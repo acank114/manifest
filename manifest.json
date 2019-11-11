@@ -1,0 +1,38 @@
+{
+  "name": "Lingkar Warna",
+  "short_name": "LINGKARWARNA",
+  "start_url": "https://www.lingkarwarna.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#ffffff",
+  "description": "Pusat informasi arsitektur, teknologi konstruksi, kreasi seni, desain review dan referensi model rumah minimalis terbaru",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s48-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s72-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s96-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s144-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s168-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s192-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-lheW6Ym8CEU/XceHNilcSmI/AAAAAAAATPQ/oGs6sprLzKE3ri6pKBPZFYPIdFQlpbPTQCLcBGAsYHQ/s512-rw/Lingkar_warna_indonesia.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
